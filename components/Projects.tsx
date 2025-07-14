@@ -24,7 +24,7 @@ interface MediaContentCollection {
 
 const sampleMediaContent: MediaContentCollection = {
   video1: {
-    src: '/videos/testimonial-1.mp4',
+    src: 'https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4',
     poster: '',
     background: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=1920&auto=format&fit=crop',
     title: 'Başarı Hikayesi Birinci',
@@ -36,7 +36,7 @@ const sampleMediaContent: MediaContentCollection = {
     },
   },
   video2: {
-    src: '/videos/testimonial-2.mp4',
+    src: 'https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_2mb.mp4',
     poster: '',
     background: 'https://images.unsplash.com/photo-1560472354-b33ff0c44a43?q=80&w=1920&auto=format&fit=crop',
     title: 'Dönüşüm Hikayesi İkinci',
@@ -48,7 +48,7 @@ const sampleMediaContent: MediaContentCollection = {
     },
   },
   video3: {
-    src: '/videos/testimonial-3.mp4',
+    src: 'https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_5mb.mp4',
     poster: '',
     background: 'https://images.unsplash.com/photo-1639322537228-f710d846310a?q=80&w=1920&auto=format&fit=crop',
     title: 'Finansal Özgürlük Üçüncü',
